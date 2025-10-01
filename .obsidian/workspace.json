@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "993ff043cd5157e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "create a link.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "create a link"
-            }
-          },
-          {
             "id": "81352d9d2276bc7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "tools/tools-list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "tools-list"
             }
           },
           {
@@ -50,49 +36,17 @@
             }
           },
           {
-            "id": "fd61546a2752762d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 1"
-            }
-          },
-          {
-            "id": "5a8b0eb600decd34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tools/tools-list.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "tools-list"
-            }
-          },
-          {
             "id": "af496ad95d56ed5f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tools/zeek.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "zeek"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -165,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/zeek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for zeek"
+              "title": "Backlinks"
             }
           },
           {
@@ -184,12 +137,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/zeek.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from zeek"
+              "title": "Outgoing links"
             }
           },
           {
@@ -213,13 +165,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/zeek.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of zeek"
+              "title": "Outline"
             }
           }
         ]
@@ -240,18 +191,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "28a0c6481015672e",
+  "active": "af496ad95d56ed5f",
   "lastOpenFiles": [
+    "scenarios/scenario-1/scenario1-setup.md",
+    "concepts/OT-sec-concepts.md",
+    "concepts",
+    "tools/simulators/Mitre-wildcat-damn.md",
+    "tools/simulators/caldera-ot.md",
     "tools/tools-list.md",
-    "tools/zeek.md",
-    "tools/suricata.md",
-    "Untitled 1.md",
-    "Untitled.md",
+    "tools/simulators/simulator-list.md",
+    "tools/security-onion.md",
+    "tools/simulators",
+    "scenarios/scenario-1",
+    "scenarios",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "tools/wazuh.md",
     "create a link.md",
-    "Untitled",
-    "Untitled 1",
-    "tools",
     "Welcome.md",
-    "Untitled.canvas"
+    "tools/zeek.md",
+    "Untitled 1.md",
+    "tools/suricata.md",
+    "Untitled 1",
+    "tools"
   ]
 }

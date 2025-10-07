@@ -33,6 +33,10 @@ Use a **short video** clip or meme (e.g., "Zeek watching your network like a haw
 - Live Demo: Replay a PCAP file showing Zeek detecting a phishing attempt—walk through logs in real-time.
 
 ---
+### kibana and zeek
+[[kibanan-queries-for-zeek]]
+
+---
 Transition: "Zeek's powerful, but no tool is perfect—let's explore the challenges."
 
 ## 4. Challenges and Security Issues: Real-World Hurdles 

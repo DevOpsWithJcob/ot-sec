@@ -3,7 +3,7 @@
 ## Links
 [[caldera-ot]]
 [[Mitre-wildcat-damn]]
-[[zeek]]
+[[tools/zeek]]
 [[OT-sec-concepts]]
 
 As a cybersecurity expert specializing in lab environments, I've set up countless simulations like this to mimic real-world operational technology (OT) attacks. This guide walks you through creating a containerized lab where **Caldera** (from MITRE) acts as the attacker emulating Modbus/TCP threats against **Wildcat Dam** (MITRE's simulated OT dam control system using Modbus/TCP). We'll monitor traffic with **Zeek** (for detailed protocol logging) and analyze it in the **ELK Stack** (Elasticsearch for storage, Logstash/Filebeat for ingestion, Kibana for visualization and alerts).

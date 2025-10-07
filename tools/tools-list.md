@@ -1,6 +1,6 @@
 # tools
 [[suricata]]
-[[zeek]]
+[[tools/zeek]]
 [[wazuh]]
 [[security-onion]]
 

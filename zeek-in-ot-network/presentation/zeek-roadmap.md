@@ -34,7 +34,7 @@ Use a **short video** clip or meme (e.g., "Zeek watching your network like a haw
 
 ---
 ### kibana and zeek
-[[kibanan-queries-for-zeek]]
+[[kibana-queries-for-zeek]]
 
 ---
 Transition: "Zeek's powerful, but no tool is perfect—let's explore the challenges."

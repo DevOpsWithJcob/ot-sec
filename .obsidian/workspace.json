@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/tools-list.md",
+                "file": "pymodbus/pymodbus-readthedocs/pymodbus read the docs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tools-list"
+              "title": "pymodbus read the docs"
             }
           },
           {
@@ -205,16 +205,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pymodbus/scenario-tomcat/04 pseudocode for each Python file.md",
+                "file": "pymodbus/scenario-tomcat/06 detect anomalies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 pseudocode for each Python file"
+              "title": "06 detect anomalies"
             }
           }
-        ],
-        "currentTab": 14
+        ]
       }
     ],
     "direction": "vertical"
@@ -271,7 +270,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "356c8e139ac17085",
@@ -362,17 +362,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "28a0c6481015672e",
+  "active": "81352d9d2276bc7f",
   "lastOpenFiles": [
-    "pymodbus/scenario-tomcat/05 Modbus fundamentals.md",
+    "pymodbus/scenario-tomcat/07 python code.md",
+    "pymodbus/pymodbus-readthedocs/pymodbus read the docs.md",
+    "pymodbus/pymodbus-readthedocs",
+    "pymodbus/pymodbus-list.md",
     "pymodbus/scenario-tomcat/04 pseudocode for each Python file.md",
-    "pymodbus/scenario-tomcat/03 tomcat tree structure.md",
-    "pymodbus/scenario-tomcat/02 High-level behavior.md",
+    "gpt-agent/01 prompt.md",
+    "pymodbus/scenario-tomcat/06 detect anomalies.md",
+    "gpt-agent",
+    "pymodbus/scenario-tomcat/05 Modbus fundamentals.md",
+    "tools/tools-list.md",
     "pymodbus/scenario-tomcat/01 core design philosophy of PLC-based control systems.md",
+    "pymodbus/scenario-tomcat/02 High-level behavior.md",
+    "pymodbus/scenario-tomcat/03 tomcat tree structure.md",
+    "concepts/OT-sec-concepts.md",
+    "scenarios/scenario-1/scenario1-setup.md",
     "pymodbus/scenario-tomcat",
     "pymodbus/concepts/01-start-documents.md",
     "Untitled.md",
-    "pymodbus/pymodbus-list.md",
     "pymodbus/concepts",
     "pymodbus/examples",
     "zeek-in-ot-network/presentation/kibana-queries-for-zeek.md",
@@ -390,17 +399,8 @@
     "zeek-in-ot-network/presentation/malware-or-malicious-commands.md",
     "zeek-in-ot-network/presentation/detected a zero-day exploit.md",
     "zeek-in-ot-network/zeek-links.md",
-    "zeek-in-ot-network/zeek-configuration-guide.md",
     "zeek-in-ot-network/presentation",
-    "zeek-in-ot-network/presentation-roadmap.md",
-    "zeek-in-ot-network/zeek-as-NSM.md",
-    "zeek-in-ot-network/zeek-as-NSM-keywords.md",
-    "zeek-in-ot-network/Malicious Log Detection.md",
     "zeek-in-ot-network",
-    "concepts/network/purdue-model.md",
-    "concepts/concepts-list.md",
-    "concepts/network",
-    "Untitled.base",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

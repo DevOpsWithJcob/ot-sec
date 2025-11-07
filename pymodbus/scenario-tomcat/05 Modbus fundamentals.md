@@ -185,12 +185,12 @@ Each PLC acts as a **server**, exposing its process data via Modbus registers.
 
 ## 🔹 10. Modbus in ICS Networks (Purdue Model)
 
-|Level|Description|Protocols|Example|
-|---|---|---|---|
-|**Level 3 (Control)**|SCADA / Historians|Modbus/TCP, OPC, DNP3|SCADA collecting process data|
-|**Level 2 (Supervisory)**|HMI / Operator stations|Modbus/TCP|Operator panel controlling lines|
-|**Level 1 (Control)**|PLCs, RTUs, IEDs|Modbus RTU/TCP|PLC controlling valves|
-|**Level 0 (Field)**|Sensors, actuators|Electrical signals|4–20mA, discrete inputs|
+| Level                     | Description             | Protocols             | Example                          |
+| ------------------------- | ----------------------- | --------------------- | -------------------------------- |
+| **Level 3 (Control)**     | SCADA / Historians      | Modbus/TCP, OPC, DNP3 | SCADA collecting process data    |
+| **Level 2 (Supervisory)** | HMI / Operator stations | Modbus/TCP            | Operator panel controlling lines |
+| **Level 1 (Control)**     | PLCs, RTUs, IEDs        | Modbus RTU/TCP        | PLC controlling valves           |
+| **Level 0 (Field)**       | Sensors, actuators      | Electrical signals    | 4–20mA, discrete inputs          |
 
 Modbus connects Levels 0–2, where **real-time control and monitoring** occur.
 

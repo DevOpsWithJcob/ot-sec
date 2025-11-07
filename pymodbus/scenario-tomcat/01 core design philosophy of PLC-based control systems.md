@@ -5,6 +5,7 @@ Let’s break it down carefully and clearly, because this goes to the **core des
 
 ## 🔹 Short answer
 
+
 ✅ **Yes — a single PLC can handle multiple objects (valves, doors, motors, pumps, sensors, etc.)**  
 That’s exactly what PLCs are designed for.
 
